@@ -16,28 +16,5 @@ to start testing run
 ## License
 MIT
 
-## File structure
-
-    
-    README.md  
-    index.js  
-    package-lock.json
-    package.json
-    .eslintrc.json
-    ./.github
-     ./workflows
-       nodejs.yml
-    ./console:
-       404.svg      
-       kanban.css  
-       modal.js   
-       signup.js
-       firebase.js  
-       kanban.js   
-       script.js  
-       style.css
-       index.html   
-       login.css   
-       signin.js
 
    
